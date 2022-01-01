@@ -1,0 +1,4 @@
+name: YourProxyTools
+version: '${project.version}'
+main: tech.wiktor.plugins.proxy.Main
+author: wiktor#8880

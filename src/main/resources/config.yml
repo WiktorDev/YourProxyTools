@@ -1,0 +1,6 @@
+commands:
+  lobby:
+    - '[say] &5&ltest'
+    - '[send] lobby'
+  discord:
+    - '[say] Discord: https://dc.yourcraft.pl'
